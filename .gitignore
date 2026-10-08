@@ -1,0 +1,22 @@
+# Almacenamiento local persistente de Keycloak
+keycloak_data/
+imports/
+
+# Entornos virtuales y caché de Python
+.venv/
+env/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos de respaldo de editores y temporales
+*.swp
+*.swo
+.*.swp
+.DS_Store
+
+# Archivos de variables de entorno y credenciales
+.env
+*.secret
