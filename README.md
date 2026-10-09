@@ -38,7 +38,7 @@ La aplicación cliente estará escuchando en `http://localhost:3000`.
 
 1. Navegar a `http://localhost:3000`.
 2. Hacer clic en **Iniciar Sesión con Keycloak**.
-3. En la pantalla de autenticación de Keycloak, seleccionar el proveedor **Google** o ingresar con el usuario de prueba local (`usuario1` / `123456`).
+3. En la pantalla de autenticación de Keycloak, seleccionar el proveedor **Google**
 4. Tras validar credenciales en Google, serás redirigido a `http://localhost:3000/callback`.
 5. La aplicación intercambiará el código por el ID Token JWT y mostrará los datos de perfil y roles.
 6. Hacer clic en **Cerrar Sesión** para probar el Single Logout (SLO).
