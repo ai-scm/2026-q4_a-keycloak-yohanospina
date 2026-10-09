@@ -5,7 +5,7 @@
 ## Requisitos Previos
 
 - **Docker** y **Docker Compose**
-- **Python 3.10+** (con `flask`, `requests`, `pyjwt`)
+- **Python 3.10+
 - Cuenta activa en **Google Cloud Console**
 
 ---
